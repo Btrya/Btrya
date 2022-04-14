@@ -10,6 +10,7 @@
 
 - 🌱 正在学习 Vue3、 Vite、 ts
 - 🤔 计划学习 Nust3
+- test
 
 ![Metrics](/github-metrics.svg)
 
