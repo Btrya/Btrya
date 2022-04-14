@@ -1,6 +1,6 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hi%2C%20There!%22);Welcome%20To%20Btrya%27s%20Page!&center=true&size=27">
+   <img src="https://readme-typing-svg.herokuapp.com/?lines=%22Hi%2C%20There!%22;Welcome%20To%20Btrya%27s%20Page!&center=true&size=27">
 </h1>
 
 <!-- 贪吃蛇绿点 -->
