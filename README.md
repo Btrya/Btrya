@@ -10,7 +10,8 @@
 
 - 🌱 正在学习 Vue3、 Vite、 ts
 - 🤔 计划学习 Nust3
-- test
+
+[!Snake](/contribution-snake)
 
 ![Metrics](/github-metrics.svg)
 
