@@ -1,8 +1,6 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
-  <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hi%2C%There!%22);Welcome Btrya's Page!&center=true&size=27">
-  </a>
+   <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hi%2C%20There!%22);Welcome Btrya's Page!&center=true&size=27">
 </h1>
 
 <!-- 贪吃蛇绿点 -->
