@@ -1,3 +1,11 @@
+<!-- 动态打字效果 -->
+<h1 align="center">
+  <a href="https://sunguoqi.com/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hi%2C%There!%22);Welcome Btrya's Page!&center=true&size=27">
+  </a>
+</h1>
+
+<!-- 贪吃蛇绿点 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
 
 ### 👋 Hello 
