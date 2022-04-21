@@ -8,6 +8,8 @@
 
 ### 👋 Hello 
 
+![](https://visitor-badge.glitch.me/badge?page_id=Btrya)
+
 大家好，我是 Btrya ，一个凡人。
 
 梦想是写出一个让人 哇塞 的开源库
