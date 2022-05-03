@@ -32,7 +32,7 @@
 ![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
 
 <!-- [欢迎查看我的掘金](https://juejin.cn/user/1591748568048941) -->
-### 掘金传送门 <img src="https://emojis.slackmojis.com/emojis/images/1643514634/6383/meow-popcorn.gif?1643514634" alt="Watch you" width="42" />
+### JueJin Portal <img src="https://emojis.slackmojis.com/emojis/images/1643514634/6383/meow-popcorn.gif?1643514634" alt="Watch you" width="42" />
 - 算法学习总结篇 (有空再更新...)
 - [前端算法学习总结篇(js) 0. 前言-算法入门基础概念](https://juejin.cn/post/7021018780927000590)
 - [前端算法学习总结篇(js) 1. 树](https://juejin.cn/post/7020798757230870535)
@@ -45,6 +45,6 @@
 
 ![我的 掘金 数据](https://stats.justsong.cn/api/juejin?id=1591748568048941&theme=dark)
 
-### 每天坚持至少一题算法 <img src="https://emojis.slackmojis.com/emojis/images/1643515259/12806/meow_attention.png?1643515259" alt="Study" width="42" />
+### Keep Coding <img src="https://emojis.slackmojis.com/emojis/images/1643515259/12806/meow_attention.png?1643515259" alt="Study" width="42" />
 
 ![我的 LeetCode 数据](https://stats.justsong.cn/api/leetcode/?username=Btrya&cn=true&theme=dark)
