@@ -19,10 +19,20 @@
 - 🌱 正在学习 Vue3源码(等待整理输出文章)、 Vite、 ts类型体操、 更多更多的英语单词
 - 🤔 计划学习 Nust3
 
-![Metrics](/github-metrics.svg)
+<!--![Metrics](/github-metrics.svg)-->
+### 🐯 Languages and Tools
+
+![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%23197CBE?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23ECD83E&color=%23ECD83E)
+![Vue.js](https://img.shields.io/badge/-Vue.js-%2335363A?logoColor=4FC08D&style=flat&logo=Vue.js) 
+![Sass](https://img.shields.io/badge/-Sass-%23CB6498?style=flat&logo=sass&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/-Node.js-%23579050?style=flat&logo=node.js&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/-VSCode-%230066B8?style=flat&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
 
 <!-- [欢迎查看我的掘金](https://juejin.cn/user/1591748568048941) -->
-- 👽 掘金传送门
+### 👽 掘金传送门
 - 算法学习总结篇 (有空再更新...)
 - [前端算法学习总结篇(js) 0. 前言-算法入门基础概念](https://juejin.cn/post/7021018780927000590)
 - [前端算法学习总结篇(js) 1. 树](https://juejin.cn/post/7020798757230870535)
@@ -35,6 +45,6 @@
 
 ![我的 掘金 数据](https://stats.justsong.cn/api/juejin?id=1591748568048941&theme=dark)
 
-- 😈 每天坚持至少一题算法
+### 😈 每天坚持至少一题算法
 
 ![我的 LeetCode 数据](https://stats.justsong.cn/api/leetcode/?username=Btrya&cn=true&theme=dark)
