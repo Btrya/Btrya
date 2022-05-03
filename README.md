@@ -4,7 +4,7 @@
 </h1>
 
 <!-- 贪吃蛇绿点 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/Btrya/Btrya/contribution-snake/github-contribution-grid-snake.svg" /></div>
 
 ### 👋 Hello 
 
