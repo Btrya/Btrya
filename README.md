@@ -6,7 +6,7 @@
 <!-- 贪吃蛇绿点 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/Btrya/Btrya/contribution-snake/github-contribution-grid-snake.svg" /></div>
 
-### 👋 Hello 
+### Hello <img src="https://emojis.slackmojis.com/emojis/images/1643515350/13688/meow_dance.gif?1643515350" alt="Hello" width="42" /> 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Btrya)
 
@@ -20,7 +20,7 @@
 - 🤔 计划学习 Nust3
 
 <!--![Metrics](/github-metrics.svg)-->
-### 🐯 Languages and Tools
+### Languages and Tools <img src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023" alt="Code" width="42" /> 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%23197CBE?style=flat&logo=css3)
@@ -32,7 +32,7 @@
 ![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
 
 <!-- [欢迎查看我的掘金](https://juejin.cn/user/1591748568048941) -->
-### 👽 掘金传送门
+### 掘金传送门 <img src="https://emojis.slackmojis.com/emojis/images/1643514634/6383/meow-popcorn.gif?1643514634" alt="Watch you" width="42" />
 - 算法学习总结篇 (有空再更新...)
 - [前端算法学习总结篇(js) 0. 前言-算法入门基础概念](https://juejin.cn/post/7021018780927000590)
 - [前端算法学习总结篇(js) 1. 树](https://juejin.cn/post/7020798757230870535)
@@ -45,6 +45,6 @@
 
 ![我的 掘金 数据](https://stats.justsong.cn/api/juejin?id=1591748568048941&theme=dark)
 
-### 😈 每天坚持至少一题算法
+### 每天坚持至少一题算法 <img src="https://emojis.slackmojis.com/emojis/images/1643515259/12806/meow_attention.png?1643515259" alt="Study" width="42" />
 
 ![我的 LeetCode 数据](https://stats.justsong.cn/api/leetcode/?username=Btrya&cn=true&theme=dark)
