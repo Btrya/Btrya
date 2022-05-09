@@ -17,7 +17,7 @@
 为此正在努力 💪
 
 - 🌱 正在学习 Vue3源码(等待整理输出文章)、 Vite、 ts类型体操、 更多更多的英语单词
-- 🤔 计划学习 Nust3
+- 🤔 计划学习 Nest3
 
 <!--![Metrics](/github-metrics.svg)-->
 ### Languages and Tools <img src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023" alt="Code" width="42" /> 
